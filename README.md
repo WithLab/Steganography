@@ -22,3 +22,8 @@ I also added two images to show you the results. In this example I tried to hide
 The result after extracting the eagle-image from the cat-image looks like this: ![Result](https://user-images.githubusercontent.com/95371658/202023089-6175d025-5d6c-4771-90e4-3177f45679ab.jpg)
 
 I know it doesn't look well, but you can see the eagle. Of course the more details there are, the less they will be recognisable in the result.
+
+
+Used packages: Pillow (https://python-pillow.org/)
+
+The cat- and eagle-image are from Pixabay
