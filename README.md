@@ -1,2 +1,3 @@
 # Steganography
-This Repo contains my attempts for scripts using Steganigraphy
+This Repo contains my attempts for scripts using Steganography
+
