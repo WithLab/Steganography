@@ -3,7 +3,7 @@ This Repo contains my attempts for scripts using Steganography
 
 # About
 
-The main.py is currently only using one method of hiding an image "inside" an other image. It does this by flipping the least significant bit (LSB) of every 
+The main.py is currently only using one method for hiding an image "inside" an other image. It does this by flipping the least significant bit (LSB) of every 
 RGB-Value of every pixel of the image you want to use, to hide the other one, whenever the LBS of the current RGB-Value of the image you want to hide is 1.
 
 To hide text in an image, the text is first converted into a binary string. After that the LSB of the current RGB-Value is set to the current bit in the
