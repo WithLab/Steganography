@@ -8,11 +8,14 @@ RGB-Value of every pixel of the image you want to use, to hide the other one, wh
 
 # Usage
 
-When you execute the main.py file, you are asked to enter three path:
+When you execute the main.py file, you are asked to choose a mode:
 
-  The first one is the path to the image you want to hide.
-  The second one is the path to the image you want to use, to hide the first one
-  The thirs one is the path to the "blank" image, on which the "extracted" image is displayed.
+  The first mode is hiding a text in the image. For that you are asked to enter the path to the image, and the text you want to hide in the image.
+  
+  The second mode is hiding an image inside an other image. For that you are asked to enter three paths:
+    The first one is the path to the image you want to hide.
+    The second one is the path to the image you want to use, to hide the first one
+    The third one is the path to the "blank" image, on which the "extracted" image is displayed.
   
   
 # Examples
