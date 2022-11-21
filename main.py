@@ -88,9 +88,3 @@ def extract_text(received_image):
         c = chr(int(text_bin[s:s+8], 2))  
         text = text + c
     print(text)
-
-
-hide_text(hidden_text, img_original)
-img_original.show()
-extract_text(img_original)
-
